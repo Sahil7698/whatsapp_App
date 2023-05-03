@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 
 # Screen Short
 <img src = "https://user-images.githubusercontent.com/114761517/235850653-3228cf2e-e74e-42e3-b61b-ebda70d3b064.png" width = "200px">
-<img src = "https://user-images.githubusercontent.com/114761517/235850705-b8adb6a0-ac2d-4706-984d-97f5f3fdfc5f.png)" width = "200px">
+<img src = "https://user-images.githubusercontent.com/114761517/235850705-b8adb6a0-ac2d-4706-984d-97f5f3fdfc5f.png" width = "200px">
